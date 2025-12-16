@@ -86,6 +86,7 @@ do {
 ```
 ## 📝 Exercícios para praticar
 🔂 Exercícios com FOR
+
 1️⃣ Contagem simples
 Crie um programa que imprima os números de 1 a 10 usando for.
 
@@ -96,6 +97,7 @@ Mostre todos os números pares de 0 a 50.
 Peça um número ao usuário e exiba a tabuada dele (1 a 10).
 
 🔂 Exercícios com WHILE
+
 4️⃣ Validação de senha
 Peça uma senha ao usuário enquanto ela for diferente de "1234"
 
@@ -104,6 +106,7 @@ Leia números inteiros e some-os.
 O programa deve parar quando o usuário digitar 0.
 
 🔂 Exercícios com DO WHILE
+
 6️⃣ Confirmação de escolha
 Peça ao usuário:
 Deseja continuar? (S/N)
